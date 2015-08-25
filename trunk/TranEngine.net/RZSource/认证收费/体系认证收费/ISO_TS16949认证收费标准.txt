@@ -1,0 +1,203 @@
+﻿&nbsp;&nbsp; <DIV align=center><STRONG>ISO/TS16949</STRONG><STRONG>认证收费标准</STRONG></DIV>
+<DIV align=center><STRONG></STRONG></DIV>
+<DIV>一、&nbsp;&nbsp;&nbsp; 审核费：按审核人·日数计算，每人·日收费6500元人民币，审核人·日数确定准则如下：</DIV>
+<DIV>第一阶段审核：1-2人日</DIV>
+<DIV>第二阶段审核：见下表</DIV>
+<DIV align=center>
+<TABLE cellSpacing=0 cellPadding=0 border=1>
+<TBODY>
+<TR>
+<TD width=142>
+<DIV align=center>企业员工数</DIV></TD>
+<TD width=142>
+<DIV align=center>审核人日</DIV></TD>
+<TD width=142>
+<DIV align=center>企业员工数</DIV></TD>
+<TD width=142>
+<DIV align=center>审核人日</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=142>
+<DIV align=center>1—6</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>2</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>833—968</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>12</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=142>
+<DIV align=center>7—11</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>2.5</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>969—1119</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>12.5</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=142>
+<DIV align=center>12—18</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>3</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>1120—1286</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>13</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=142>
+<DIV align=center>19—27</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>3.5</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>1287—1470</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>13.5</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=142>
+<DIV align=center>28—39</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>4</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>1471—1673</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>14</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=142>
+<DIV align=center>40—54</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>4.5</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>1674—1895</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>14.5</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=142>
+<DIV align=center>55—71</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>5</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>1896—2138</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>15</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=142>
+<DIV align=center>72—93</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>5.5</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>2139—2402</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>15.5</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=142>
+<DIV align=center>94—117</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>6</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>2403—2688</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>16</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=142>
+<DIV align=center>118—146</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>6.5</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>2689—2999</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>16.5</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=142>
+<DIV align=center>147—179</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>7</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>3000—3334</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>17</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=142>
+<DIV align=center>180—216</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>7.5</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>3335—3695</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>17.5</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=142>
+<DIV align=center>217—257</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>8</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>3696—4084</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>18</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=142>
+<DIV align=center>258—304</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>8.5</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>4085—4502</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>18.5</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=142>
+<DIV align=center>305—348</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>9</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>4503—4949</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>19</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=142>
+<DIV align=center>349—422</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>9.5</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>4950—5427</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>19.5</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=142>
+<DIV align=center>423—507</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>10</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>5428—5937</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>20</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=142>
+<DIV align=center>507—602</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>10.5</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>5938—6482</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>20.5</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=142>
+<DIV align=center>603—711</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>11</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>6483—7061</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>21</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=142>
+<DIV align=center>712—832</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>11.5</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>7062—7676</DIV></TD>
+<TD vAlign=top width=142>
+<DIV align=center>21.5</DIV></TD></TR></TBODY></TABLE></DIV>
+<DIV>二、&nbsp;&nbsp;&nbsp; 注册费（IATF飞行检查费）</DIV>
+<DIV>按审核费的5%计算</DIV>
+<DIV>三、&nbsp;&nbsp;&nbsp; 申请费 1000元</DIV>
+<DIV>四、&nbsp;&nbsp;&nbsp; 咨询费面议</DIV></td>
+    </tr>
+  </table>

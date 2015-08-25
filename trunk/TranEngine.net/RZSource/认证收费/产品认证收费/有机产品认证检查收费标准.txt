@@ -1,0 +1,104 @@
+﻿<DIV align=center><STRONG>有机产品认证检查收费标准</STRONG><STRONG></STRONG></DIV>
+<DIV align=center><STRONG>CQC/PDC129-2007</STRONG></DIV>
+<DIV align=center><STRONG>（第1版，第0 次修订）</STRONG></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV>
+<P>
+<TABLE cellSpacing=0 cellPadding=0 border=1>
+<TBODY>
+<TR>
+<TD width=55>
+<DIV align=center>序号</DIV></TD>
+<TD width=180>
+<DIV align=center>收 费 项 目</DIV></TD>
+<TD width=156>
+<DIV align=center>收 费 标 准</DIV></TD>
+<TD width=260>
+<DIV align=center>备&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 注</DIV></TD></TR>
+<TR>
+<TD width=55>
+<DIV align=center>1</DIV></TD>
+<TD width=180>
+<DIV align=center>申请费</DIV></TD>
+<TD width=156>
+<DIV align=center>600元</DIV></TD>
+<TD width=260>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD width=55>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>2</DIV></TD>
+<TD width=180>
+<DIV align=center>检查费</DIV></TD>
+<TD width=156>
+<DIV align=center>3000元×人·天数</DIV></TD>
+<TD width=260>
+<DIV>按规定的检查人天数（每8小时为1人·天，小于或等于4小时为0.5人·天）</DIV></TD></TR>
+<TR>
+<TD width=55>
+<DIV align=center>3</DIV></TD>
+<TD width=180>
+<DIV align=center>样品检测费</DIV></TD>
+<TD width=156>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=260>
+<DIV>独立的第三方实验室收取</DIV></TD></TR>
+<TR>
+<TD width=55>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>3</DIV></TD>
+<TD width=180>
+<DIV align=center>审定与发证费</DIV></TD>
+<TD width=156>
+<DIV align=center>1000元</DIV></TD>
+<TD width=260>
+<DIV>如需加印证书，每证另收费50元</DIV></TD></TR>
+<TR>
+<TD width=55>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=180>
+<DIV>&nbsp;</DIV></TD>
+<TD width=156>
+<DIV>&nbsp;</DIV></TD>
+<TD width=260>
+<DIV>&nbsp;</DIV></TD></TR></TBODY></TABLE></P>
+<DIV>注：人·天数是评审所需的人天数（即人×天数）。</DIV>
+<DIV>&nbsp;</DIV>
+<DIV align=center><STRONG></STRONG>&nbsp;</DIV>
+<DIV align=center><STRONG>认证标志使用费收费标准</STRONG>(贴标)</DIV>
+<DIV align=center><STRONG></STRONG>&nbsp;</DIV>
+<DIV align=center>
+<TABLE cellSpacing=0 cellPadding=0 border=1>
+<TBODY>
+<TR>
+<TD vAlign=top width=232>
+<DIV align=center><STRONG>标志规格</STRONG><STRONG></STRONG></DIV></TD>
+<TD vAlign=top width=420>
+<DIV align=center><STRONG>价格</STRONG><STRONG>(</STRONG><STRONG>元</STRONG><STRONG>/</STRONG><STRONG>枚</STRONG><STRONG>)</STRONG></DIV></TD></TR>
+<TR>
+<TD vAlign=top width=232>
+<DIV>10mm</DIV></TD>
+<TD vAlign=top width=420>
+<DIV align=center>0.05</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=232>
+<DIV align=center>&nbsp; 15mm</DIV></TD>
+<TD vAlign=top width=420>
+<DIV align=center>0.10</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=232>
+<DIV align=center>&nbsp; 20mm</DIV></TD>
+<TD vAlign=top width=420>
+<DIV align=center>0.20</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=232>
+<DIV align=center>&nbsp; 30mm</DIV></TD>
+<TD vAlign=top width=420>
+<DIV align=center>0.30</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=232>
+<DIV align=center>&nbsp; 60mm</DIV></TD>
+<TD vAlign=top width=420>
+<DIV align=center>0.40</DIV></TD></TR></TBODY></TABLE></DIV></td>
+    </tr>
+  </table>

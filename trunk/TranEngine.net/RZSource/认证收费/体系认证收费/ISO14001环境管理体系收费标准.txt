@@ -1,0 +1,189 @@
+﻿&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 根据国家发展计划委员会关于印发《管理体系认证收费标准》的通知，收费标准为：
+<DIV align=left><B>（一）初审费用</B></DIV>
+<DIV align=left><B>1、固定费用</B>：申请费1,000元；审定与注册费（含证书费）2,000元；年金（含标志使用费）2,000元（复评申请或扩大范围申请不收费）。</DIV>
+<DIV align=left><B>2、审核费</B>：审核费按所用“审核人·日数”计算，收费标准为3,000元/人·日。本中心依据《IAF对ISO/IEC导则62：1996的应用指南附件2审核员时间》的要求，按下表确定认证评审的人·日数。</DIV>
+<DIV align=left><B>ISO14001环境管理体系审核时间标准</B></DIV>
+<TABLE cellSpacing=0 cellPadding=0 border=0>
+<TBODY>
+<TR>
+<TD width=139>
+<DIV align=center>受审方员工数</DIV></TD>
+<TD width=144>
+<DIV align=center>初审（人·日数）</DIV></TD>
+<TD width=163>
+<DIV align=center>年度监督（人·日数）</DIV></TD>
+<TD width=140>
+<DIV align=center>复评（人·日数）</DIV></TD></TR>
+<TR>
+<TD width=139>
+<DIV align=center>10人以下</DIV></TD>
+<TD width=144>
+<DIV align=center>2</DIV></TD>
+<TD width=163>
+<DIV align=center>1</DIV></TD>
+<TD width=140>
+<DIV align=center>1.5</DIV></TD></TR>
+<TR>
+<TD width=139>
+<DIV align=center>11-45</DIV></TD>
+<TD width=144>
+<DIV align=center>4</DIV></TD>
+<TD width=163>
+<DIV align=center>1.5</DIV></TD>
+<TD width=140>
+<DIV align=center>2.5</DIV></TD></TR>
+<TR>
+<TD width=139>
+<DIV align=center>46-85</DIV></TD>
+<TD width=144>
+<DIV align=center>6</DIV></TD>
+<TD width=163>
+<DIV align=center>2</DIV></TD>
+<TD width=140>
+<DIV align=center>4</DIV></TD></TR>
+<TR>
+<TD width=139>
+<DIV align=center>86-175</DIV></TD>
+<TD width=144>
+<DIV align=center>8</DIV></TD>
+<TD width=163>
+<DIV align=center>2.5</DIV></TD>
+<TD width=140>
+<DIV align=center>5.5</DIV></TD></TR>
+<TR>
+<TD width=139>
+<DIV align=center>176-425</DIV></TD>
+<TD width=144>
+<DIV align=center>10</DIV></TD>
+<TD width=163>
+<DIV align=center>3</DIV></TD>
+<TD width=140>
+<DIV align=center>6.5</DIV></TD></TR>
+<TR>
+<TD width=139>
+<DIV align=center>426-625</DIV></TD>
+<TD width=144>
+<DIV align=center>11</DIV></TD>
+<TD width=163>
+<DIV align=center>3.5</DIV></TD>
+<TD width=140>
+<DIV align=center>7.5</DIV></TD></TR>
+<TR>
+<TD width=139>
+<DIV align=center>625-875</DIV></TD>
+<TD width=144>
+<DIV align=center>12</DIV></TD>
+<TD width=163>
+<DIV align=center>4</DIV></TD>
+<TD width=140>
+<DIV align=center>8</DIV></TD></TR>
+<TR>
+<TD width=139>
+<DIV align=center>876-1175</DIV></TD>
+<TD width=144>
+<DIV align=center>13</DIV></TD>
+<TD width=163>
+<DIV align=center>4.5</DIV></TD>
+<TD width=140>
+<DIV align=center>8.5</DIV></TD></TR>
+<TR>
+<TD width=139>
+<DIV align=center>1176-1550</DIV></TD>
+<TD width=144>
+<DIV align=center>14</DIV></TD>
+<TD width=163>
+<DIV align=center>4.5</DIV></TD>
+<TD width=140>
+<DIV align=center>9.5</DIV></TD></TR>
+<TR>
+<TD width=139>
+<DIV align=center>1551-2025</DIV></TD>
+<TD width=144>
+<DIV align=center>15</DIV></TD>
+<TD width=163>
+<DIV align=center>5</DIV></TD>
+<TD width=140>
+<DIV align=center>10</DIV></TD></TR>
+<TR>
+<TD width=139>
+<DIV align=center>2026-2675</DIV></TD>
+<TD width=144>
+<DIV align=center>16</DIV></TD>
+<TD width=163>
+<DIV align=center>5.5</DIV></TD>
+<TD width=140>
+<DIV align=center>10.5</DIV></TD></TR>
+<TR>
+<TD width=139>
+<DIV align=center>2676-3450</DIV></TD>
+<TD width=144>
+<DIV align=center>17</DIV></TD>
+<TD width=163>
+<DIV align=center>5.5</DIV></TD>
+<TD width=140>
+<DIV align=center>11.5</DIV></TD></TR>
+<TR>
+<TD width=139>
+<DIV align=center>3451-4350</DIV></TD>
+<TD width=144>
+<DIV align=center>18</DIV></TD>
+<TD width=163>
+<DIV align=center>6</DIV></TD>
+<TD width=140>
+<DIV align=center>12</DIV></TD></TR>
+<TR>
+<TD width=139>
+<DIV align=center>4351-5450</DIV></TD>
+<TD width=144>
+<DIV align=center>19</DIV></TD>
+<TD width=163>
+<DIV align=center>6.5</DIV></TD>
+<TD width=140>
+<DIV align=center>12.5</DIV></TD></TR>
+<TR>
+<TD width=139>
+<DIV align=center>5451-6800</DIV></TD>
+<TD width=144>
+<DIV align=center>20</DIV></TD>
+<TD width=163>
+<DIV align=center>6.5</DIV></TD>
+<TD width=140>
+<DIV align=center>14</DIV></TD></TR>
+<TR>
+<TD width=139>
+<DIV align=left>6801-8500</DIV></TD>
+<TD width=144>
+<DIV align=center>21</DIV></TD>
+<TD width=163>
+<DIV align=center>7</DIV></TD>
+<TD width=140>
+<DIV align=center>15</DIV></TD></TR></TBODY></TABLE>
+<DIV align=left><B>可能需要增加审核员时间的因素</B>：</DIV>
+<DIV align=left>·复杂的后勤条件，涉及到不止一座建筑物或一处工作地点，例如，一个单独的设计中心一定要被审核到；</DIV>
+<DIV align=left>·雇员使用多种语言（需要翻译人员或妨碍审核个人独立工作；</DIV>
+<DIV align=left>·相对于雇员数量，工作场地很大（例如伐木工地）；</DIV>
+<DIV align=left>·法规要求高（食品和医药、航空、核动力等）；</DIV>
+<DIV align=left>·体系覆盖了高度复杂的过程或相对数量大的彼此不同的活动；</DIV>
+<DIV align=left>·过程涉及到硬件、软件、流程材料和服务的组合。</DIV>
+<DIV align=left><B>可能允许减少审核员时间的因素</B>：</DIV>
+<DIV align=left>·组织不负有设计责任和/或不覆盖标准的某些要素；</DIV>
+<DIV align=left>·无/低风险产品/过程；</DIV>
+<DIV align=left>·对组织体系的预先了解（例如，组织已经按照其他标准被同一机构认证）；</DIV>
+<DIV align=left>·相对于雇员数量，工作场地很小（例如只有综合的办公室）；</DIV>
+<DIV align=left>·客户的认证准备状态（例如，组织已经被另一个第三方机构认证或承认）；</DIV>
+<DIV align=left>·过程只涉及到单一的基本活动（例如，只有服务）；</DIV>
+<DIV align=left>·成熟的管理体系；</DIV>
+<DIV align=left>·大量雇员从事相同的简单工作。 </DIV>
+<DIV align=left>应考虑到组织体系、过程和产品/服务方面所有的特征，并且针对那些可能导致审核员时间增加或减少的因素，对审核时间进行调整。对某个组织初评审核员时间总量的调整，减少量不能大于审核员时间表中要求的审核员时间的30%。</DIV>
+<DIV align=left><B>3、预审费：</B>受审方要求预审时，预审费标准不超过初审费标准的50%。</DIV>
+<DIV align=left><B>4、其他费用：</B></DIV>
+<DIV align=left>a.所有因审核发生的食宿交通费用（包括初审、预审、监督审核及复评）由受审方承担。</DIV>
+<DIV align=left>b.如需加印证书另收工本费,每证50元。</DIV>
+<DIV align=left><B>（二）监督审核费</B></DIV>
+<DIV align=left>1、企事业单位取得认证注册证书后，在三年有效期内，中心将对其进行监督审核。每年度监督审核费，按初次审核费的三分之一收取。</DIV>
+<DIV align=left>2、扩大认证范围一般在监督审核费的基础上，加收1-4人·日。</DIV>
+<DIV align=left>3、第二、三年度年金各2000元，与监督审核费同时支付。</DIV>
+<DIV align=left><B>（三）复评费：</B></DIV>
+<DIV align=left>在证书三年有效期满前二个月，受审核方向中心申请复评，复评费为初次审核费的70%。</DIV></td>
+    </tr>
+  </table>

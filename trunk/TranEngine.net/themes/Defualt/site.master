@@ -1,0 +1,141 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="site.master.cs" Inherits="MasterPage" %>
+<%@ Register src="~/themes/Defualt/meun.ascx" tagname="TabMenu" tagprefix="menu" %>
+<%@ Import Namespace="TrainEngine.Core" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="Style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="Form1" runat="server">
+    <ul id="wrapper">
+
+	<li id="toolkit" class="toolkit">
+		<div class="toolkit_contact">
+			<span class="contact_tel">800-820-6666</span><span class="contact_mobile">1010-6666（免长话费）</span>
+		</div>
+		<div class="toolkit_login">
+            <asp:Label ID="lbluser" runat="server" Text="Label" ForeColor="#0055AA"></asp:Label>
+				<a runat="server" id="aLogin" />
+				<a runat="server" id="aReg" >注册</a>
+		</div>
+		<ul class="toolkit_links">
+        <%if (Page.User.Identity.IsAuthenticated)
+          {%>
+              <li class="toolkit_user">
+				<dl class="user_menu" id="toolkit_user_menu" onmouseover="this.className=&#39;user_menu user_menu_hover&#39;;" onmouseout="this.className=&#39;user_menu&#39;;">
+					<dt><a href="<%=Utils.AbsoluteWebRoot+@"admin\pages\default.aspx"%>">控制面板</a></dt>					
+                    <dd>                    
+                    <a href="<%=Utils.AbsoluteWebRoot+@"admin\pages\default.aspx"%>">我的积分</a>                    
+                    <a href="<%=Utils.AbsoluteWebRoot+@"admin\pages\default.aspx"%>">我的信息</a>
+                    <a href="<%=Utils.AbsoluteWebRoot+"login.aspx"%>">更改密码</a>
+                    </dd>
+				</dl>
+			</li>
+         <% } %>
+			
+			
+			<li><a href="<%=Utils.AbsoluteWebRoot+"points.aspx"%>">积分奖励</a></li>
+			
+			<li><a href="<%=Utils.AbsoluteWebRoot+"help.aspx"%>">帮助中心</a></li>
+		</ul>
+    </li>
+	<!-- InstanceBegin name="position" -->
+	<li id="hd">
+	<ul class="pagehead">
+		<li class="logo" id="ctripLogo"><h1><a href="javascript:void(0);" title="">培训网</a></h1></li>
+		<li>
+			<div class="submenu">
+				<div class="layoutfix">
+				<a href="" title="" class=""><span class="icon_hot"></span></a>
+				
+				<a href="" title="" class=""><span></span></a>
+				
+				<a href="" title="" class=""><span></span></a></div>
+			</div>
+			<div id="ctrip|CTRIP_HOMEPAGE|BANNER" class="pagehead_pic"><a href="#" target="_blank"><img src="./wks46860.gif" width="468" height="60" border="0" alt=""></a></div>
+			
+		</li>
+	</ul>
+	<!-- navgations -->
+     <menu:TabMenu ID="TabMenu" runat="server" />
+    </li>
+    <li id="center">
+    <!---在线客服-->
+       <div id="kf">
+            <DIV style="Z-INDEX: 999; POSITION: absolute; FILTER: alpha(opacity=90); WIDTH: 109px; VISIBILITY: visible; TOP: 100px; LEFT: 88%" id="STATICMENU">
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=106>
+<TBODY>
+<TR>
+<TD colSpan="3"><IMG border=0 src="/TranEngine.net/themes/Defualt/pic/1.gif" width=109 height=34 useMap=#MapForQQ></TD></TR>
+<TR>
+<TD background="/TranEngine.net/themes/Defualt/pic/3.gif" width="6"></TD>
+<TD bgColor="#ffffff" width="96" align="center">
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=90 align=center>
+<TBODY>
+<TR>
+<TD height=39 align=center><A href="http://wpa.qq.com/msgrd?v=3&amp;uin=17655265&amp;site=qq&amp;menu=yes" target=_blank><IMG title=点击这里给我发消息 border=0 alt=点击这里给我发消息 src="http://wpa.qq.com/pa?p=2:17655265:41"></A></TD></TR>
+<TR>
+<TD height=39 align=center><A href="http://wpa.qq.com/msgrd?v=3&amp;uin=2242473828&amp;site=qq&amp;menu=yes" target=_blank><IMG title=点击这里给我发消息 border=0 alt=点击这里给我发消息 src="http://wpa.qq.com/pa?p=2:2242473828:41"></A></TD></TR>
+<TR>
+<TD height=39 align=center><A href="http://wpa.qq.com/msgrd?v=3&amp;uin=403421495&amp;site=qq&amp;menu=yes" target=_blank><IMG title=点击这里给我发消息 border=0 alt=点击这里给我发消息 src="http://wpa.qq.com/pa?p=2:403421495:41"></A></TD></TR></TBODY></TABLE></TD>
+<TD background=/TranEngine.net/themes/Defualt/pic/4.gif width=7></TD></TR>
+<TR>
+<TD colSpan=3><img src="/TranEngine.net/themes/Defualt/pic/2.gif" width=109 height=17> </TD></TR></TBODY></TABLE>
+<SCRIPT type="text/javascript">
+<!--
+    var stmnGAP1 = 0;
+    var stmnGAP2 = 96;
+    /* stmnGAP2小时，距离顶部的距离在stmnGAP2与stmnGAP1之间，stmnGAP2为离相对顶部的最小距离，stmnGAP1离相对顶部最大距离，开始时为stmnGAP1，往下滚动，最后会变为stmnGAP2，stmnGAP2比stmnGAP1大时，stmnGAP1不起作用，stmnGAP2为距离相对顶部距离 */
+    var stmnBASE = 0; //设定浮动块的初始位置,相对距离
+    var stmnActivateSpeed = 200; //启动速度
+    var stmnScrollSpeed = 10; //浮动速度
+    var stmnTimer; //setTimeout句柄
+
+    function RefreshStaticMenu() {
+            var stmnStartPoint, stmnEndPoint, stmnRefreshTimer;
+        stmnStartPoint = parseInt(document.getElementById("STATICMENU").style.top, 10);
+        stmnEndPoint = document.documentElement.scrollTop + stmnGAP2;
+//        if (stmnEndPoint < stmnGAP1)
+//            stmnEndPoint = stmnGAP1;
+        stmnRefreshTimer = stmnActivateSpeed;
+        if (stmnStartPoint != stmnEndPoint) {
+//            alert(stmnStartPoint + ":" + stmnEndPoint);
+            var stmnScrollAmount = Math.ceil(Math.abs(stmnEndPoint - stmnStartPoint) / 15);
+            document.getElementById("STATICMENU").style.top = (parseInt(document.getElementById("STATICMENU").style.top, 10) + ((stmnEndPoint < stmnStartPoint) ? -stmnScrollAmount : stmnScrollAmount))+"px";
+            stmnRefreshTimer = stmnScrollSpeed;
+        }
+        stmnTimer = setTimeout("RefreshStaticMenu();", stmnRefreshTimer);
+    }
+    document.getElementById("STATICMENU").style.top = (document.documentElement.scrollTop + 96)+"px";
+    RefreshStaticMenu();
+//-->
+  </SCRIPT>
+
+<SCRIPT type="text/javascript">
+    function closeQQ() {
+        document.getElementById("STATICMENU").style.display = "none";
+    }
+  </SCRIPT>
+</DIV><MAP name=MapForQQ><AREA href="javascript:closeQQ();" shape=circle coords=89,17,11></MAP><!--浮动QQ客服代码结束 -->
+        </div>
+   <asp:ContentPlaceHolder ID="cphBody" runat="server">
+            </asp:ContentPlaceHolder>
+     
+    </li>
+    
+    <li id="footer">
+        <ul>        
+	        <li>全国统一客服热线：400-622-8122 总机：027-12345678 传真：027-12345678 E_Mail：hbpx@hbpx.com.cn 企业QQ：12345678</li>
+	        <li>XXXXXXX企业管理咨询有限公司 版权所有 <a href="http://www.miibeian.gov.cn">鄂ICP备12345678号</a> 公安备案号1234567890123<a href="http://www.cnzz.com/stat/website.php?web_id=158605" target="_blank" title="站长统计"><img border="0" hspace="0" vspace="0" src="http://icon.cnzz.com/pic.gif" /></a></li>
+	        <li>Copyright(C)2011-2012 HBPX.com.cn All Rights Reserved.  常年法律顾问：XXXXXXXXX律师事务所 律师：XXX</li>
+            
+        </ul>
+       
+    </li>
+</ul>
+    
+ </form>                 
+</body>
+</html>

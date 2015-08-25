@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  
+  <siteMapNode url="default.aspx" title="Train Engine"  description="" roles="administrators, students, teachers, organs">
+    <siteMapNode url="~/admin/Pages/default.aspx" title="控制首页"  description=""  roles="administrators, organs,teachers, students"/>
+    <siteMapNode url="~/admin/Pages/Curricula/default.aspx" title="mCurricula"  description=""  roles="administrators, organs"/>
+    <siteMapNode url="~/admin/Pages/Training/default.aspx" title="mTraining"  description=""  roles="administrators,teachers"/>
+    <siteMapNode url="~/admin/Pages/Excellent/default.aspx" title="mSpace"  description=""  roles="administrators, teachers,organs"/>    
+    <siteMapNode url="~/admin/Pages/ResUpload/default.aspx" title="add_entry"  description=""  roles="administrators, students"/>
+    <siteMapNode url="~/admin/Pages/Point.aspx" title="mPoint"  description=""  roles="administrators, students,teachers,organs"/>
+    <siteMapNode url="~/admin/Pages/Score.aspx" title="mScore"  description=""  roles="administrators, students"/>
+    <siteMapNode url="~/admin/Pages/Categories.aspx" title="categories"  description=""  roles="administrators"/>
+    <siteMapNode url="~/admin/Pages/Profiles.aspx" title="profiles"  description=""  roles="administrators, students,teachers,organs"/>
+    <siteMapNode url="~/admin/Pages/Users.aspx" title="users"  description=""  roles="administrators"/>
+    <siteMapNode url="~/admin/Comments/Default.aspx" title="comments"  description=""  roles="administrators"/>
+    <!--<siteMapNode url="~/admin/Pages/Vip/Default.aspx" title="VIP管理"  description=""  roles="administrators"/>-->
+  </siteMapNode>
+</siteMap>

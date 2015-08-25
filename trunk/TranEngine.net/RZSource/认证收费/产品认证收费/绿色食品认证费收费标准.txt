@@ -1,0 +1,845 @@
+﻿<TABLE cellSpacing=0 cellPadding=0 width=609 border=0 x:str>
+
+<TBODY>
+
+<TR height=32>
+
+<TD width=609 colSpan=4 height=32 x:str="    一、绿色食品认证费收费标准                             ">
+
+<P>一、绿色食品认证费收费标准 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+
+<TR height=97>
+
+<TD width=609 colSpan=4 height=97>&nbsp;&nbsp;&nbsp; 绿色食品认证费收费标准具体为：每个产品8000元，同类的（57小类）系列初级产品，超过两个的部分，每个产品1000元；主要原料相同和工艺相近的系列加工产品，超过两个的部分，每个产品2000元；其它系列产品，超过两个的部分，每个产品3000元。</TD></TR>
+
+<TR height=30>
+
+<TD colSpan=4 height=30><FONT style="FONT-SIZE: 12px">二、绿色食品标志年度使用费标准</FONT></TD></TR>
+
+<TR height=25>
+
+<TD colSpan=3 height=25></TD>
+
+<TD>单位：万元</TD></TR>
+
+<TR height=25>
+
+<TD height=50 rowSpan=2>类别编号</TD>
+
+<TD rowSpan=2>产 品 类 别</TD>
+
+<TD rowSpan=2>非系列产品</TD>
+
+<TD rowSpan=2>系列产品</TD></TR>
+
+<TR height=25></TR>
+
+<TR height=25>
+
+<TD height=25>一</TD>
+
+<TD>初级产品</TD>
+
+<TD>　</TD>
+
+<TD>　</TD></TR>
+
+<TR height=25>
+
+<TD height=25>（一）</TD>
+
+<TD>农林产品</TD>
+
+<TD>　</TD>
+
+<TD>　</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>1</TD>
+
+<TD>小麦</TD>
+
+<TD x:num>0.1</TD>
+
+<TD x:num>0.03</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>5</TD>
+
+<TD>玉米</TD>
+
+<TD x:num>0.1</TD>
+
+<TD x:num>0.03</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>7</TD>
+
+<TD>大豆</TD>
+
+<TD x:num>0.1</TD>
+
+<TD x:num>0.03</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>9</TD>
+
+<TD>油料作物产品</TD>
+
+<TD x:num>0.1</TD>
+
+<TD x:num>0.03</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>11</TD>
+
+<TD>糖料作物产品</TD>
+
+<TD x:num>0.1</TD>
+
+<TD x:num>0.03</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>13</TD>
+
+<TD>杂粮</TD>
+
+<TD x:num>0.1</TD>
+
+<TD x:num>0.01</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>15</TD>
+
+<TD>蔬菜</TD>
+
+<TD x:num>0.1</TD>
+
+<TD x:num>0.01</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>18</TD>
+
+<TD>鲜果类</TD>
+
+<TD x:num>0.1</TD>
+
+<TD x:num>0.03</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>19</TD>
+
+<TD>干果类</TD>
+
+<TD x:num>0.1</TD>
+
+<TD x:num>0.03</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>21</TD>
+
+<TD>食用菌及山野菜</TD>
+
+<TD x:num>0.1</TD>
+
+<TD x:num>0.03</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>23</TD>
+
+<TD>其它食用农林产品</TD>
+
+<TD x:num>0.1</TD>
+
+<TD x:num>0.03</TD></TR>
+
+<TR height=25>
+
+<TD height=25>（二）</TD>
+
+<TD>畜禽类产品</TD>
+
+<TD>　</TD>
+
+<TD>　</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>25</TD>
+
+<TD>猪肉</TD>
+
+<TD x:num>0.18</TD>
+
+<TD x:num>0.06</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>26</TD>
+
+<TD>牛肉</TD>
+
+<TD x:num>0.18</TD>
+
+<TD x:num>0.06</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>27</TD>
+
+<TD>羊肉</TD>
+
+<TD x:num>0.18</TD>
+
+<TD x:num>0.06</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>28</TD>
+
+<TD>禽肉</TD>
+
+<TD x:num>0.18</TD>
+
+<TD x:num>0.06</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>29</TD>
+
+<TD>其它肉类</TD>
+
+<TD x:num>0.18</TD>
+
+<TD x:num>0.06</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>31</TD>
+
+<TD>禽蛋</TD>
+
+<TD x:num>0.18</TD>
+
+<TD x:num>0.06</TD></TR>
+
+<TR height=25>
+
+<TD height=25>（三）</TD>
+
+<TD>水产类产品</TD>
+
+<TD>　</TD>
+
+<TD>　</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>36</TD>
+
+<TD>水产品</TD>
+
+<TD x:num>0.18</TD>
+
+<TD x:num>0.06</TD></TR>
+
+<TR height=25>
+
+<TD height=25>二</TD>
+
+<TD>初加工产品</TD>
+
+<TD>　</TD>
+
+<TD>　</TD></TR>
+
+<TR height=25>
+
+<TD height=25>(一)</TD>
+
+<TD>农林加工产品</TD>
+
+<TD>　</TD>
+
+<TD>　</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>2</TD>
+
+<TD>小麦粉</TD>
+
+<TD x:num>0.18</TD>
+
+<TD x:num>0.06</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>3</TD>
+
+<TD>大米</TD>
+
+<TD x:num>0.18</TD>
+
+<TD x:num>0.06</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>6</TD>
+
+<TD>玉米加工品(初加工)</TD>
+
+<TD x:num>0.18</TD>
+
+<TD x:num>0.06</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>14</TD>
+
+<TD>杂粮加工品(初加工)</TD>
+
+<TD x:num>0.18</TD>
+
+<TD x:num>0.06</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>16</TD>
+
+<TD>冷冻、保鲜蔬菜</TD>
+
+<TD x:num>0.18</TD>
+
+<TD x:num>0.06</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>17</TD>
+
+<TD>蔬菜加工品（初加工）</TD>
+
+<TD x:num>0.18</TD>
+
+<TD x:num>0.06</TD></TR>
+
+<TR height=26>
+
+<TD height=26 x:num>20</TD>
+
+<TD>果品加工类<FONT size=+0>(</FONT><FONT size=+0>初加工）</FONT></TD>
+
+<TD x:num>0.18</TD>
+
+<TD x:num>0.06</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>22</TD>
+
+<TD>食用菌及山野菜加工品</TD>
+
+<TD x:num>0.18</TD>
+
+<TD x:num>0.06</TD></TR>
+
+<TR height=55>
+
+<TD height=55 x:num>24</TD>
+
+<TD width=252>其它农林加工食品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （初加工）</TD>
+
+<TD x:num>0.18</TD>
+
+<TD x:num>0.06</TD></TR>
+
+<TR height=25>
+
+<TD height=25>（二）</TD>
+
+<TD>畜禽类产品</TD>
+
+<TD>　</TD>
+
+<TD>　</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>32</TD>
+
+<TD>蛋制品</TD>
+
+<TD x:num>0.25</TD>
+
+<TD x:num>0.08</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>35</TD>
+
+<TD>蜂产品（初加工）</TD>
+
+<TD x:num>0.25</TD>
+
+<TD x:num>0.08</TD></TR>
+
+<TR height=25>
+
+<TD height=25>（三）</TD>
+
+<TD>水产类产品</TD>
+
+<TD>　</TD>
+
+<TD>　</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>37</TD>
+
+<TD>水产加工品（初加工）</TD>
+
+<TD x:num>0.25</TD>
+
+<TD x:num>0.08</TD></TR>
+
+<TR height=25>
+
+<TD height=25>（四）</TD>
+
+<TD>饮料类产品</TD>
+
+<TD>　</TD>
+
+<TD>　</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>44</TD>
+
+<TD>精制茶</TD>
+
+<TD x:num>0.15</TD>
+
+<TD x:num>0.05</TD></TR>
+
+<TR height=25>
+
+<TD height=25>（五）</TD>
+
+<TD>其它产品</TD>
+
+<TD>　</TD>
+
+<TD>　</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>50</TD>
+
+<TD>方便主食品</TD>
+
+<TD x:num>0.18</TD>
+
+<TD x:num>0.06</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>54</TD>
+
+<TD>食盐</TD>
+
+<TD x:num>0.18</TD>
+
+<TD x:num>0.06</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>55</TD>
+
+<TD>淀粉</TD>
+
+<TD x:num>0.18</TD>
+
+<TD x:num>0.06</TD></TR>
+
+<TR height=25>
+
+<TD height=25>三</TD>
+
+<TD>深加工产品</TD>
+
+<TD>　</TD>
+
+<TD>　</TD></TR>
+
+<TR height=25>
+
+<TD height=25>（一）</TD>
+
+<TD>农林加工产品</TD>
+
+<TD>　</TD>
+
+<TD>　</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>4</TD>
+
+<TD>大米加工品</TD>
+
+<TD x:num>0.3</TD>
+
+<TD x:num>0.1</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>6</TD>
+
+<TD>玉米加工品（深加工）</TD>
+
+<TD x:num>0.3</TD>
+
+<TD x:num>0.1</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>8</TD>
+
+<TD>大豆加工品</TD>
+
+<TD x:num>0.3</TD>
+
+<TD x:num>0.1</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>10</TD>
+
+<TD>食用植物油及其制品</TD>
+
+<TD x:num>0.3</TD>
+
+<TD x:num>0.1</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>12</TD>
+
+<TD>机制糖</TD>
+
+<TD x:num>0.3</TD>
+
+<TD x:num>0.1</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>14</TD>
+
+<TD>杂粮加工品（深加工）</TD>
+
+<TD x:num>0.25</TD>
+
+<TD x:num>0.08</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>17</TD>
+
+<TD>蔬菜加工品（深加工）</TD>
+
+<TD x:num>0.25</TD>
+
+<TD x:num>0.08</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>20</TD>
+
+<TD>果品加工品（深加工）</TD>
+
+<TD x:num>0.25</TD>
+
+<TD x:num>0.08</TD></TR>
+
+<TR height=50>
+
+<TD height=50 x:num>24</TD>
+
+<TD width=252>其它农林加工食品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （深加工）</TD>
+
+<TD x:num>0.28</TD>
+
+<TD x:num>0.08</TD></TR>
+
+<TR height=25>
+
+<TD height=25>（二）</TD>
+
+<TD>畜禽类产品</TD>
+
+<TD>　</TD>
+
+<TD>　</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>30</TD>
+
+<TD>肉食加工品</TD>
+
+<TD x:num>0.3</TD>
+
+<TD x:num>0.1</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>33</TD>
+
+<TD>液体乳</TD>
+
+<TD x:num>0.3</TD>
+
+<TD x:num>0.1</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>34</TD>
+
+<TD>乳制品</TD>
+
+<TD x:num>0.3</TD>
+
+<TD x:num>0.1</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>35</TD>
+
+<TD>蜂产品（深加工）</TD>
+
+<TD x:num>0.3</TD>
+
+<TD x:num>0.1</TD></TR>
+
+<TR height=25>
+
+<TD height=25>（三）</TD>
+
+<TD>水产类产品</TD>
+
+<TD>　</TD>
+
+<TD>　</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>37</TD>
+
+<TD>水产加工品（深加工）</TD>
+
+<TD x:num>0.3</TD>
+
+<TD x:num>0.1</TD></TR>
+
+<TR height=25>
+
+<TD height=25>（四）</TD>
+
+<TD>饮料类产品</TD>
+
+<TD x:num>0.3</TD>
+
+<TD>　</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>38</TD>
+
+<TD>瓶（罐）装饮用水</TD>
+
+<TD x:num>0.3</TD>
+
+<TD x:num>0.1</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>39</TD>
+
+<TD>碳酸饮料</TD>
+
+<TD x:num>0.3</TD>
+
+<TD x:num>0.1</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>40</TD>
+
+<TD>果蔬汁及其饮料</TD>
+
+<TD x:num>0.3</TD>
+
+<TD x:num>0.1</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>41</TD>
+
+<TD>固体饮料</TD>
+
+<TD x:num>0.3</TD>
+
+<TD x:num>0.1</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>42</TD>
+
+<TD>其它饮料</TD>
+
+<TD x:num>0.3</TD>
+
+<TD x:num>0.1</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>43</TD>
+
+<TD>冷冻饮料</TD>
+
+<TD x:num>0.3</TD>
+
+<TD x:num>0.1</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>45</TD>
+
+<TD>其它茶</TD>
+
+<TD x:num>0.3</TD>
+
+<TD x:num>0.1</TD></TR>
+
+<TR height=25>
+
+<TD height=25>(五)</TD>
+
+<TD>其它产品</TD>
+
+<TD>　</TD>
+
+<TD>　</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>51</TD>
+
+<TD>糕点</TD>
+
+<TD x:num>0.25</TD>
+
+<TD x:num>0.08</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>52</TD>
+
+<TD>糖果</TD>
+
+<TD x:num>0.25</TD>
+
+<TD x:num>0.08</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>53</TD>
+
+<TD>果脯蜜饯</TD>
+
+<TD x:num>0.25</TD>
+
+<TD x:num>0.08</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>56</TD>
+
+<TD>调味品类</TD>
+
+<TD x:num>0.25</TD>
+
+<TD x:num>0.08</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>57</TD>
+
+<TD>食品添加剂</TD>
+
+<TD x:num>0.25</TD>
+
+<TD x:num>0.08</TD></TR>
+
+<TR height=25>
+
+<TD height=25>四</TD>
+
+<TD>酒类产品</TD>
+
+<TD>　</TD>
+
+<TD>　</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>46</TD>
+
+<TD>白酒</TD>
+
+<TD x:num>1.25</TD>
+
+<TD x:num>0.4</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>47</TD>
+
+<TD>啤酒</TD>
+
+<TD x:num>0.75</TD>
+
+<TD x:num>0.25</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>48</TD>
+
+<TD>葡萄酒</TD>
+
+<TD x:num>0.75</TD>
+
+<TD x:num>0.25</TD></TR>
+
+<TR height=25>
+
+<TD height=25 x:num>49</TD>
+
+<TD>其它酒类</TD>
+
+<TD x:num>0.75</TD>
+
+<TD x:num>0.25</TD></TR></TBODY></TABLE>

@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="GridExcellentGold.ascx.cs" Inherits="User_controls_Excellent_GridExcellentGold" %>
+<div style="font-size:12px;"><asp:PlaceHolder ID="PlaceHolder" runat="server"></asp:PlaceHolder></div>

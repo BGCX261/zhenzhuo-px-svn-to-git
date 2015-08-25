@@ -1,0 +1,238 @@
+﻿&nbsp;&nbsp; <FONT id=zoom>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp; 本收费说明是依据CNAB-AC11：2002附件3《认证机构实施HACCP安全体系认证的认可基本要求》“5.3.4审核员时间”的要求， 参照国家计划委员会、国家质量技术监督局计价格[1999]212号文《国家计委、国家质量技术监督局关于印发（质量体系认证收费标准）的通知》和国家认可委CNAB-AC12：2002号文件中有关规定制定。</DIV>
+<DIV><B>1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </B>&nbsp;获取证书的基本费用。</DIV>
+<DIV><B>1.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </B>申请费1000元（对申请书的复议及扩大范围的申请不收费）</DIV>
+<DIV><B>1.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </B>审核费：审核费是按所需人/日数收取，每1人/日收费标准为人民币3000元，（深圳特区的审核费在收费标准基础上上浮30%）。下表为HACCP认证所需最低人/日数。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; </DIV>
+<TABLE cellSpacing=0 cellPadding=0 border=1>
+<TBODY>
+<TR>
+<TD width=153>
+<DIV align=center>组织员工数</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>初评审核时间</DIV>
+<DIV align=center>（人日数）</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>监督审核时间</DIV>
+<DIV align=center>（人日数）</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>复评审核时间</DIV>
+<DIV align=center>（人日数）</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=153>
+<DIV align=center>1-10</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>2</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>1</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>1.5</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=153>
+<DIV align=center>11-25</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>3</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>1</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>2</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=153>
+<DIV align=center>26-45</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>4</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>1.5</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>3</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=153>
+<DIV align=center>46-65</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>5</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>2</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>3.5</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=153>
+<DIV align=center>66-85</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>6</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>2</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>4</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=153>
+<DIV align=center>86-125</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>7</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>2.5</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>5</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=153>
+<DIV align=center>126-175</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>8</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>3</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>5.5</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=153>
+<DIV align=center>176-275</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>9</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>3</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>6</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=153>
+<DIV align=center>276-425</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>10</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>3.5</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>7</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=153>
+<DIV align=center>426-625</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>11</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>4</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>7.5</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=153>
+<DIV align=center>626-875</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>12</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>4</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>8</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=153>
+<DIV align=center>876-1175</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>13</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>4.5</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>9</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=153>
+<DIV align=center>1176-1550</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>14</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>5</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>9.5</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=153>
+<DIV align=center>1551-2025</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>15</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>5</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>10</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=153>
+<DIV align=center>2026-2675</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>16</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>5.5</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>11</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=153>
+<DIV align=center>2676-3450</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>17</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>6</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>11.5</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=153>
+<DIV align=center>3451-4350</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>18</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>6</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>12</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=153>
+<DIV align=center>4351-5450</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>19</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>6.5</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>13</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=153>
+<DIV align=center>5451-6800</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>20</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>7</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>13.5</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=153>
+<DIV align=center>6801-8500</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>21</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>7</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>14</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=153>
+<DIV align=center>8501-10700</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>22</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>7.5</DIV></TD>
+<TD vAlign=top width=153>
+<DIV align=center>15</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=153>
+<DIV>&gt;10700</DIV></TD>
+<TD vAlign=top width=459 colSpan=3>
+<DIV>依此类推</DIV></TD></TR></TBODY></TABLE>
+<DIV><B>1.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </B>审定与注册费（含证书费）2000元，如需加印证书，每证另收费50元。</DIV>
+<DIV><B>2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </B>保持证书费用</DIV>
+<DIV><B>2.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </B>年金（含标志使用费）2000元，每年交纳一次。</DIV>
+<DIV><B>2.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </B>监督审核费：按1.2条款执行。</DIV>
+<DIV><B>3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </B>预审核：预审核费按1.2条款执行，但人日数按1.2表格中规定范围内双方协商。</DIV>
+<DIV><B>4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </B>复评：即重新注册审核：在证书一年有效期满前，可申请重新注册，重新注册时免收申请费，审核费用按1.2条款执行，审定与注册费（含证书费），年金不变。</DIV>
+<DIV><B>5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </B>验证与复审：对审核中不合格项的纠正措施的现场验证不再另外收取费用，对审核中没有通过现场审核而重新提出认证申请时，免收申请费。审核费按原费用60％收取，其它费用不变。</DIV>
+<DIV><B>6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </B>对于多现场或申请认证的产品超过4类，审核人日数需增加，每增加一个现场（指不在同一城市）/一类产品，加收2个人日，最多增加10个人/日</DIV>
+<DIV><B>7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </B>扩大认证范围时，对要求单独进行审核的审核费比照上表收取，申请费免收。对要求在年度监督审核时进行的可比照上表收取标准的20<FONT size=3>∽50</FONT>％收取，申请费免收，审定与注册费和年金不再重复收取，其后的监督审核费合并收取，证书费每证50元。</DIV>
+<DIV><B>8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </B>例行监督，如组织的结构和体系文件有变化，须进行文件审核时，应增加0.5-1个审核人日。</DIV>
+<DIV><B>9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </B>当HACCP与ISO9001结合审核时，审核费用的收取按HACCP认证所需最低人/日数的1.5倍执行，申请费为1000元，审定与注册费为2000×2（元），年金为2000×2（元）。</DIV>
+<DIV><B>10&nbsp;&nbsp;&nbsp; </B>收费方式：</DIV>
+<DIV><B>10.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </B>申请费应于认证合同签署之日起30天内支付。</DIV>
+<DIV><B>10.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </B>初次审核费的50％应于认证合同签署后30日内由甲方支付给乙方，剩余部分的审核费应予现场审核前30日内付清。</DIV>
+<DIV><B>10.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </B>审定与注册费（含证书费）应于证书领取前支付。</DIV>
+<DIV><B>10.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </B>年金（含标志使用费）：年金在获取证书之时支付。</DIV>
+<DIV><B>10.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </B>监督审核费应于每次监督审核的30天之前一次支付。</DIV>
+<DIV><B>10.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </B>由于申请方原因而需增加审核时间时，费用经双方协商后另外支付。</DIV>
+<DIV><B>10.7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </B>审核员在进行初访、审核时发生的食宿交通费，按实际支出由申请认证方支付。</DIV>
+<DIV><B>11&nbsp;&nbsp;&nbsp; </B>声明</DIV>
+<DIV><B>11.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </B>在国家有关收费政策调整时本公司将保留调整费用的权力，中心将及时向申请认证方通报费用变动情况。</DIV>
+<DIV><B>11.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </B>上述收费是本中心唯一财务来源，为维护中心审核立场的客观性、独立性、公正性，将谢绝一切客户的馈赠或贷款，特此表示歉意。</DIV></FONT></td>
+    </tr>
+  </table>
